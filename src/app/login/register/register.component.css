@@ -1,0 +1,81 @@
+
+
+
+.container {
+    text-align: center;
+    background: #2c3338;
+    border-radius: 9px;
+    border-top: 10px solid #0c787d;
+    border-bottom: 10px solid #0c787d;
+    width: 350px;
+    height: 400px;
+    margin-top: 99px;
+  }
+  
+  .box h4 {
+    font-family: "Source Sans Pro", sans-serif;
+    color:#129aa1;
+    font-size: 20px;
+    margin-top: 44px;
+    padding-bottom: 8px;
+  
+  }
+  
+  #lgn {
+    color: #dfdeee;
+    font-weight: lighter;
+  }
+  
+  .box h5 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 13px;
+    color: #a1a4ad;
+    letter-spacing: 1.5px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .box input[type="text"],
+  .box input[type="password"] {
+    display: block;
+    margin: 20px auto;
+    background-color: #3b4148;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 10px;
+    width: 250px;
+    outline: 0;
+    color: #a9a9a9;
+   
+  }
+  
+  
+  .box input[type="text"]:focus,
+  .box input[type="password"]:focus {
+    border: 1px solid #79a6fe;
+  }
+  
+  a {
+    color:#129aa1;
+    text-decoration: none;
+  }
+  .btn1 {
+    border: 0;
+    background: #0c787d;
+    color: #dfdeee;
+    border-radius: 7px;
+    width: 140px;
+    height: 49px;
+    font-size: 16px;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-top: 30px;
+    
+  
+  }
+  
+  .btn1:hover {
+    background: #129aa1;
+  }
+  
+  
