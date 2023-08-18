@@ -7,6 +7,8 @@ import { LoginPageComponent } from './login/login-page/login-page.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { RegisterComponent } from './login/register/register.component';
 import { IndexComponent } from './index/index.component';
+import { PaymentComponent } from './payment/payment.component';
+import { CommentComponent } from './comment/comment.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { IndexComponent } from './index/index.component';
     LoginPageComponent,
     NavBarComponent,
     RegisterComponent,
-    IndexComponent
+    IndexComponent,
+    PaymentComponent,
+    CommentComponent
   ],
   imports: [
     BrowserModule,
